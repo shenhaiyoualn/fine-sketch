@@ -8,7 +8,6 @@ body {
 	background-color: #D6BA8F;
 }
 -->
-</style></head>
 
 <body id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown" bgcolor="#BEBEBE">
 <h2 align="center">Face Photo-Sketch Synthesis via Intra-Domain Enhancement</h2>
@@ -16,13 +15,13 @@ body {
 <h3 align = "left"><font size=5 color=#000000>Chunlei Peng, et al, "Multiple Representations based Face Sketch-Photo Synthesis", Submitted.</font></h3>-->
 <table width="3000" border="1" align="center">
   <tr>
-    <td height="270"><div align="center"><img src="imgs/CUFSF/Photo/14.jpg" width="200" height="250"></div></td>
-    <td><div align="center"><img src="imgs/CUFSF/IDE/14.png" width="200" height="250"></div></td>
-    <td><div align="center"><img src="imgs/CUFSF/original sketch/14.jpg" width="200" height="250"></div></td>
+    <td height="270"><div align="center"><img src="imgs/CUFSF/Photo/14.jpg" width="100" height="125"></div></td>
+    <td><div align="center"><img src="imgs/CUFSF/IDE/14.png" width="100" height="125"></div></td>
+    <td><div align="center"><img src="imgs/CUFSF/original sketch/14.jpg" width="100" height="125"></div></td>
     <td>&nbsp;</td>
-    <td><div align="center"><img src="imgs/CUFSF/Photo/15.jpg" width="200" height="250"></div></td>
-    <td><div align="center"><img src="imgs/CUFSF/IDE/15.png" width="200" width="200" height="250"></div></td>
-    <td><div align="center"><img src="imgs/CUFSF/original sketch/15.jpg" width="200" height="250"></div></td>
+    <td><div align="center"><img src="imgs/CUFSF/Photo/15.jpg" width="100" height="125"></div></td>
+    <td><div align="center"><img src="imgs/CUFSF/IDE/15.png" width="100" height="125"></div></td>
+    <td><div align="center"><img src="imgs/CUFSF/original sketch/15.jpg" width="100" height="125"></div></td>
   </tr>  
   <tr>
     <td height="270"><div align="center"><img src="./MrFSPS Results/CUHKps5.jpg" width="200" height="250"></div></td>
