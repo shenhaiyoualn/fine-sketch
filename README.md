@@ -2,8 +2,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-<title>IDE</title>
 <!--<style type="text/css">-->
 <!--
 body {
@@ -27,13 +25,14 @@ body {
     <td width="240"><div align="center"><strong>Results of the IDE based methods</strong></div></td>
   </tr>
   <tr>
-    <td height="270"><div align="center"><img src="./MrFSPS Results/CUHKps1.jpg" width="200" height="250"></div></td>
-    <td><div align="center"><img src="./MrFSPS Results/CUHKps1_1.jpg" width="200" height="250"></div></td>
-    <td><div align="center"><img src="./MrFSPS Results/CUHKps1_2.jpg" width="200" height="250"></div></td>
+    <div align="center">
+	<img src="imgs/CUFSF/Photo/14.jpg" width="200"/>
+	<img src="imgs/CUFSF/IDE/14.png" width="200"/>
+	<img src="imgs/CUFSF/original sketch/14.jpg" width="200"/>
     <td>&nbsp;</td>
-    <td><div align="center"><img src="./MrFSPS Results/CUHKps2.jpg" width="200" height="250"></div></td>
-    <td><div align="center"><img src="./MrFSPS Results/CUHKps2_1.jpg" width="200" height="250"></div></td>
-    <td><div align="center"><img src="./MrFSPS Results/CUHKps2_2.jpg" width="200" height="250"></div></td>
+        <img src="imgs/CUFSF/Photo/15.jpg" width="200"/>
+	<img src="imgs/CUFSF/IDE/15.png" width="200"/>
+	<img src="imgs/CUFSF/original sketch/15.jpg" width="200"/>
   </tr>
   <tr>
     <td height="270"><div align="center"><img src="./MrFSPS Results/CUHKps3.jpg" width="200" height="250"></div></td>
