@@ -36,13 +36,13 @@ body {
 	<img src="imgs/CUFSF/original sketch/15.jpg" width="200"/>
   </tr>
   <tr>
-    <td height="270"><div align="center"><img src="./MrFSPS Results/CUHKps3.jpg" width="200" height="250"></div></td>
-    <td><div align="center"><img src="./MrFSPS Results/CUHKps3_1.jpg" width="200" height="250"></div></td>
-    <td><div align="center"><img src="./MrFSPS Results/CUHKps3_2.jpg" width="200" height="250"></div></td>
+    <td height="270"><div align="center"><img src="imgs/CUFSF/Photo/14.jpg" width="200" height="250"></div></td>
+    <td><div align="center"><img src="imgs/CUFSF/IDE/14.png" width="200" height="250"></div></td>
+    <td><div align="center"><img src="imgs/CUFSF/original sketch/14.jpg" width="200" height="250"></div></td>
     <td>&nbsp;</td>
-    <td><div align="center"><img src="./MrFSPS Results/CUHKps4.jpg" width="200" height="250"></div></td>
-    <td><div align="center"><img src="./MrFSPS Results/CUHKps4_1.jpg" width="200" height="250"></div></td>
-    <td><div align="center"><img src="./MrFSPS Results/CUHKps4_2.jpg" width="200" height="250"></div></td>
+    <td><div align="center"><img src="imgs/CUFSF/Photo/15.jpg" width="200" height="250"></div></td>
+    <td><div align="center"><img src="imgs/CUFSF/IDE/15.png" width="200" width="200" height="250"></div></td>
+    <td><div align="center"><img src="imgs/CUFSF/original sketch/15.jpg" width="200" height="250"></div></td>
   </tr>  
   <tr>
     <td height="270"><div align="center"><img src="./MrFSPS Results/CUHKps5.jpg" width="200" height="250"></div></td>
