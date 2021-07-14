@@ -23,6 +23,7 @@ body {
     <td width="240" height="53"><div align="center"><strong>Photo</strong></div></td>
     <td width="240"><div align="center"><strong>Sketch drawn by the artist</strong> </div></td>
     <td width="240"><div align="center"><strong>Results of the IDE based methods</strong></div></td>
+    <td width="20">&nbsp;</td>
   </tr>
   <tr>
     <div align="center">
