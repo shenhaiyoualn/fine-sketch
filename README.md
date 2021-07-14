@@ -4,7 +4,7 @@
 	<img src="imgs/CUFSF/Photo/14.jpg" width="150"/>
 	<img src="imgs/CUFSF/IDE/14.png" width="150"/>
 	<img src="imgs/CUFSF/original sketch/14.jpg" width="150"/>
-	<td width="40">&nbsp;</td>
+	<td width="100">&nbsp;</td>
 	<img src="imgs/CUFSF/Photo/15.jpg" width="150"/>
 	<img src="imgs/CUFSF/IDE/15.png" width="150"/>
 	<img src="imgs/CUFSF/original sketch/15.jpg" width="150"/>
