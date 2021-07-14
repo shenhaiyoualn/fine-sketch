@@ -25,7 +25,7 @@
 	<img src="imgs/CUFSF/Photo/42.jpg" width="150"/>
 	<img src="imgs/CUFSF/IDE/42.png" width="150"/>
 	<img src="imgs/CUFSF/original sketch/42.jpg" width="150"/>
-	
+	<td width="100">&nbsp;</td>
 	<img src="imgs/CUFSF/Photo/49.jpg" width="150"/>
 	<img src="imgs/CUFSF/IDE/49.png" width="150"/>
 	<img src="imgs/CUFSF/original sketch/49.jpg" width="150"/>
@@ -35,7 +35,7 @@
 	<img src="imgs/CUFSF/Photo/52.jpg" width="150"/>
 	<img src="imgs/CUFSF/IDE/52.png" width="150"/>
 	<img src="imgs/CUFSF/original sketch/52.jpg" width="150"/>
-	
+	<td width="100">&nbsp;</td>
 	<img src="imgs/CUFSF/Photo/53.jpg" width="150"/>
 	<img src="imgs/CUFSF/IDE/53.png" width="150"/>
 	<img src="imgs/CUFSF/original sketch/53.jpg" width="150"/>
@@ -46,7 +46,7 @@
 	<img src="imgs/CUFSF/Photo/63.jpg" width="150"/>
 	<img src="imgs/CUFSF/IDE/63.png" width="150"/>
 	<img src="imgs/CUFSF/original sketch/63.jpg" width="150"/>
-	
+	<td width="100">&nbsp;</td>
 	<img src="imgs/CUFSF/Photo/72.jpg" width="150"/>
 	<img src="imgs/CUFSF/IDE/72.png" width="150"/>
 	<img src="imgs/CUFSF/original sketch/72.jpg" width="150"/>
