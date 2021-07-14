@@ -15,7 +15,7 @@ body {
 <h3 align = "left"><font size=5 color=#000000>Chunlei Peng, et al, "Multiple Representations based Face Sketch-Photo Synthesis", Submitted.</font></h3>-->
 <table width="1000" border="0" align="center">
   <tr>
-    <td height="270"><div align="center"><img src="imgs/CUFSF/Photo/14.jpg" width="100" height="125"></div></td>
+    <td height="150"><div align="center"><img src="imgs/CUFSF/Photo/14.jpg" width="100" height="125"></div></td>
     <td><div align="center"><img src="imgs/CUFSF/IDE/14.png" width="100" height="125"></div></td>
     <td><div align="center"><img src="imgs/CUFSF/original sketch/14.jpg" width="100" height="125"></div></td>
     <td>&nbsp;</td>
