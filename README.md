@@ -2,12 +2,12 @@
 ## CUFSF
 ##    ———————————Photo——————IDE————Original Sketch
 <div align="center">
-	<img src="imgs/CUFSF/Photo/14.jpg" width="200"/>
-	<img src="imgs/CUFSF/IDE/14.png" width="200"/>
-	<img src="imgs/CUFSF/original sketch/14.jpg" width="200"/>
-	<img src="imgs/CUFSF/Photo/15.jpg" width="200"/>
-	<img src="imgs/CUFSF/IDE/15.png" width="200"/>
-	<img src="imgs/CUFSF/original sketch/15.jpg" width="200"/>
+	<img src="imgs/CUFSF/Photo/14.jpg" width="150"/>
+	<img src="imgs/CUFSF/IDE/14.png" width="150"/>
+	<img src="imgs/CUFSF/original sketch/14.jpg" width="150"/>
+	<img src="imgs/CUFSF/Photo/15.jpg" width="150"/>
+	<img src="imgs/CUFSF/IDE/15.png" width="150"/>
+	<img src="imgs/CUFSF/original sketch/15.jpg" width="150"/>
 </div>
 </a>
 
