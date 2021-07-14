@@ -14,17 +14,7 @@ body {
 <h2 align="center">Face Photo-Sketch Synthesis via Intra-Domain Enhancement</h2>
 <!--<br/><br/>
 <h3 align = "left"><font size=5 color=#000000>Chunlei Peng, et al, "Multiple Representations based Face Sketch-Photo Synthesis", Submitted.</font></h3>-->
-<table width="1460" border="1" align="center">
-  <tbody><tr>
-    <td width="240" height="53"><div align="center"><strong>Photo</strong></div></td>
-    <td width="240"><div align="center"><strong>Sketch drawn by the artist</strong> </div></td>
-    <td width="240"><div align="center"><strong>Results of the IDE based methods </strong></div></td>
-    <td width="20">&nbsp;</td>
-    <td width="240" height="53"><div align="center"><strong>Photo</strong></div></td>
-    <td width="240"><div align="center"><strong>Sketch drawn by the artist</strong> </div></td>
-    <td width="240"><div align="center"><strong>Results of the IDE based methods</strong></div></td>
-    <td width="20">&nbsp;</td>
-  </tr>
+<table width="2000" border="1" align="center">
   <tr>
     <div align="center">
 	<img src="imgs/CUFSF/Photo/14.jpg" width="200"/>
