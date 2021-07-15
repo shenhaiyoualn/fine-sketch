@@ -2,7 +2,7 @@
 ## CUFSF
 ### ———Photo————IDE———Original Sketch——Photo————IDE———Original Sketch
 <div align="center">
-	<img src="imgs/show.PNG"/>
+	<img src="imgs/show.PNG" width='150/>
 </div>
 <div align="center">
 	<img src="imgs/CUFSF/Photo/14.jpg" width="125"/>
